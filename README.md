@@ -30,10 +30,10 @@ This project demonstrates the use of **JavaScript event handling, random number 
 
 ## File Structure  
 coin-toss-simulator/
-│── index.html # Main HTML file
-│── head.jpg # Image of coin head
-│── tail.jpg # Image of coin tail
-│── README.md # Documentation
+├── index.html # Main HTML file
+├── head.jpg # Image of coin head
+├── tail.jpg # Image of coin tail
+└── README.md # Project documentation
 
 
 ---
